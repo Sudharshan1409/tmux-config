@@ -2,15 +2,6 @@
 
 This is a custom `tmux.conf` configuration file designed to enhance your tmux experience with a variety of plugins, keybindings, and settings. This README.md will guide you through the installation and configuration process.
 
-## Table of Contents
-
-1. [Installation](#installation)
-2. [Configuration](#configuration)
-3. [Key Bindings](#key-bindings)
-4. [Plugins](#plugins)
-5. [Themes and Appearance](#themes-and-appearance)
-6. [Additional Settings](#additional-settings)
-
 ## Installation
 
 ### Prerequisites
