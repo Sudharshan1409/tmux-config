@@ -40,7 +40,7 @@ git clone git@github.com:Sudharshan1409/tmux-config.git ~/.config/tmux
 This configuration uses TPM to manage plugins. You can install TPM by running the following command:
 
 ```sh
-git clone git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
+git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 ```
 
 ### Plugin Installation
